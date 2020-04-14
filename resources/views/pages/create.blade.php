@@ -49,7 +49,7 @@
                     </div>
                     <div id="here-maps">
                         <label for="">Pin Locations</label>
-                        <div id="mapContainer" style="height: 500px"></div>
+                        <div style="height: 500px" id="mapContainer"></div>
                     </div>
                     <div class="form-group">
                         <label for="">Latitude</label>
